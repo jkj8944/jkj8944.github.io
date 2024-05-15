@@ -52,6 +52,7 @@ googlescholar_username: Kyungjin Cho
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+I am a 3rd year Ph.D student at Computer Science and Engineering in POSTECH and advised by [Eunjin Oh](https://sites.google.com/view/eunjinoh).
 #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 #
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -59,7 +60,6 @@ about_content: | # this will include new lines to allow paragraphs
 #    - Tables
 #    - <a href="google.com">Links</a>
 #    - Images ![alt text](/images/landscape-trees.jpg "Trees")
-I am a 3rd year Ph.D student at Computer Science and Engineering in POSTECH and advised by [Eunjin Oh](https://sites.google.com/view/eunjinoh/).
 #
 #My research interests lie in <mark>algorithms</mark>, <mark>data structures</mark>, and <mark>parameterized complexities</mark>. 
 #Recently, I am interested in <mark>sparsifiers</mark> of graphs and hypergraphs.
