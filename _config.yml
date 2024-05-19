@@ -112,7 +112,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: right
         title: POSTECH
         sub_title: 	Bachelor of Mathematics
         caption: 2016.03 - 2020.02
