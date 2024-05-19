@@ -92,6 +92,11 @@ content:
               -Faster Algorithms for Cycle Hitting Problems on Disk Graphs <mark>WADS 2023</mark> (with Shinwoo An and Eunjin Oh)
               
               -Linear-time approximation scheme for k-means clustering of affine subspaces <mark>ISAAC 2021</mark> (with Eunjin Oh)
+        -layout: left
+         border: weak
+         title: Journals
+         description: |
+               -Linear-time approximation scheme for k-means clustering of axis-parallel affine subspaces <mark>Computational Geometry</mark> (with Eunjin Oh)
   - title: Experience
     layout: list
     content:
