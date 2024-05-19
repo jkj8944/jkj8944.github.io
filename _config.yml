@@ -71,19 +71,23 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Conferences
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        #additional_links:
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #  - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #    icon: fab fa-github
+        #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #quote: >
+        #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          -Optimal algorithm for the planar two-center problem <mark>SoCG 2024</mark> (with Eunjin Oh, Haitao Wang, and Jie Xue)
+          -Approximate Distance and Shortest-Path Oracles for Fault-Tolerant Geometric Spanners <mark>AAAI 2024</mark> (with Jihun Shin and Eunjin Oh)
+          -Parameterized Algorithms for the Planar Disjoint Paths Problem: Exponential in k^2 and Linear in n <mark>SODA 2023</mark> (with Seunghyeok Oh and Eunjin Oh)
+          -Faster Algorithms for Cycle Hitting Problems on Disk Graphs <mark>WADS 2023</mark> (with Shinwoo An and Eunjin Oh)
+          -Linear-time approximation scheme for k-means clustering of affine subspaces <mark>ISAAC 2021</mark> (with Eunjin Oh)
   - title: Experience
     layout: list
     content:
