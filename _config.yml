@@ -82,7 +82,11 @@ content:
         #    url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #quote: >
         #  Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs\
+              -Mimicking Networks for Constrained Multicuts in Hypergraphs <mark>ISAAC 2024</mark> (with Eunjin Oh)
+              
+              -Dynamic Parameterized Problems on Unit Disk Graphs <mark>ISAAC 2024</mark> (with Shinwoo An, Leo Jang, Byeonghyeon Jung, Yudam Lee, Eunjin Oh, Donghun Shin, Hyeonjun Shin, and Chanho Song)
+              
               -Optimal algorithm for the planar two-center problem <mark>SoCG 2024</mark> (with Eunjin Oh, Haitao Wang, and Jie Xue)
               
               -Approximate Distance and Shortest-Path Oracles for Fault-Tolerant Geometric Spanners <mark>AAAI 2024</mark> (with Jihun Shin and Eunjin Oh)
