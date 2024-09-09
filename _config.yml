@@ -113,6 +113,15 @@ content:
   #        Short description of the company (optional)
   #      description: | # this will include new lines to allow paragraphs
   #        Description of role
+  - title: Academic Activities
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Sub-Reviewer
+        description: |
+            MFCS 2021, SOSA 2023, ISAAC 2023, ESA 2023, ISAAC 2024, CGTA
   - title: Education
     layout: list
     content:
