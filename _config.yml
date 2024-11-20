@@ -100,8 +100,10 @@ content:
         border: weak
         title: Journals
         description: |
-               -Linear-time approximation scheme for k-means clustering of axis-parallel affine subspaces <mark>Computational Geometry</mark> (with Eunjin Oh)
                -Optimal Algorithm for the Planar Two-Center Problem <mark>TheoretiCS</mark> (with Eunjin Oh, Haitao Wang, and Jie Xue)
+               
+               -Linear-time approximation scheme for k-means clustering of axis-parallel affine subspaces <mark>Computational Geometry</mark> (with Eunjin Oh)
+
   #- title: Experience
   #  layout: list
   #  content:
