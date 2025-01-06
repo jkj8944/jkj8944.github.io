@@ -83,6 +83,8 @@ content:
         #quote: >
         #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs\
+              -Pre-assignment problem for unique minimum vertex cover on bounded clique-width graphs  <mark>AAAI 2025</mark> (with Shinwoo An, Yeonsu Chang, O-joung Kwon, Myounghwan Lee, Eunjin Oh, and Hyeonjun Shin)
+              
               -Mimicking Networks for Constrained Multicuts in Hypergraphs <mark>ISAAC 2024</mark> (with Eunjin Oh)
               
               -Dynamic Parameterized Problems on Unit Disk Graphs <mark>ISAAC 2024</mark> (with Shinwoo An, Leo Jang, Byeonghyeon Jung, Yudam Lee, Eunjin Oh, Donghun Shin, Hyeonjun Shin, and Chanho Song)
