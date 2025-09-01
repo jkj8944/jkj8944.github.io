@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kyungjin Cho
-title: Postdoc Researcher at Algorithms and Complexity Group in TU Graz
+title: Postdoc Researcher at Algorithms & Complexity Group in TU Graz
 email: kyungjincho@postech.ac.kr
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
@@ -52,7 +52,7 @@ googlescholar_username: Kyungjin Cho
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs\
-  I am a postdoc researcher in Algorithms and Complexity group in TU Graz and advised by [Yannic Maus](https://academia.yannicmaus.de/index.php).
+  I am a postdoc researcher in Algorithms & Complexity group in TU Graz and advised by [Yannic Maus](https://academia.yannicmaus.de/index.php).
   I've got the Ph.D. at Computer Science and Engineering in POSTECH under the supervision of [Eunjin Oh](https://sites.google.com/view/eunjinoh) in 2025.
   My research interests lie in <mark>algorithms</mark>, <mark>data structures</mark>, and <mark>parameterized complexities</mark>. 
   Recently, I am interested in <mark>sparsifiers</mark> of graphs and hypergraphs.
