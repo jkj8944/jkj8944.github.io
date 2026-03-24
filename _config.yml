@@ -54,8 +54,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs\
   I am a postdoc researcher in Algorithms & Complexity group in TU Graz and advised by [Yannic Maus](https://academia.yannicmaus.de/index.php).
   I've got the Ph.D. at Computer Science and Engineering in POSTECH under the supervision of [Eunjin Oh](https://sites.google.com/view/eunjinoh) in 2025.
-  My research interests lie in <mark>algorithms</mark>, <mark>data structures</mark>, and <mark>parameterized complexities</mark>. 
-  Recently, I am interested in <mark>sparsifiers</mark> of graphs and hypergraphs.
+  My research interests lie in <mark>algorithms</mark>, <mark>data structures</mark>, <mark>parameterized complexities</mark>, and <mark>distributed algorithms</mark>.
+  Recently, I am interested in edge-coloring, spanner, and separator in <mark>distributed models</mark>.
 #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 #
 #  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -127,7 +127,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Sub-Reviewer
         description: |
-            MFCS 2021, SOSA 2023, ISAAC 2023, ESA 2023, ISAAC 2024, CGTA
+            MFCS 2021, SOSA 2023, ISAAC 2023, ESA 2023, ISAAC 2024, STACS 2024, STOC 2026, ICALP 2026, PODC 2026, CGTA, TCS, TALG
   - title: Education
     layout: list
     content:
