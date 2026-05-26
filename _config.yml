@@ -15,7 +15,7 @@ email: kyungjin.cho@tugraz.at
 website: https://jkj8944.github.io/
 # website_title: Web (Website title override)
 
-# Dark Mode (true/false/never)
+# Dark Mode (true/false/never)https://github.com/jkj8944/jkj8944.github.io/blob/master/_config.yml
 darkmode: false
 
 # Social links
@@ -84,6 +84,9 @@ content:
         #quote: >
         #  Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs\
+
+              -Deterministic Distance Approximation in MPC via Improved Hitting Sets <mark>SPAA 2026</mark> (with Michal Dory, Yannic Maus, and Tijn de Vos)
+              
               -Pre-Assignment Problem for Unique Minimum Vertex Cover on Bounded Clique-Width Graphs  <mark>AAAI 2025</mark> (with Shinwoo An, Yeonsu Chang, O-joung Kwon, Myounghwan Lee, Eunjin Oh, and Hyeonjun Shin)
               
               -Mimicking Networks for Constrained Multicuts in Hypergraphs <mark>ISAAC 2024</mark> (with Eunjin Oh)
