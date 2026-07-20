@@ -139,10 +139,21 @@ content:
     content:
       - layout: right
         title: POSTECH
+        sub_title: 	Ph.D. of Computer Science and Engineering
+        caption: 2020.02 - 2025.08
+        quote: >
+          Thesis Title: Parameterized Graph Simplifications for Large-Scale Networks
+
+          GPA: 4.15/4.3
+    
+      - layout: right
+        title: POSTECH
         sub_title: 	Bachelor of Mathematics
         caption: 2016.03 - 2020.02
         quote: >
           GPA: 3.95/4.3 (summa cum laude)
+          
+      
         #description: | # this will include new lines to allow paragraphs
         #  Description of qualification
   #- title: A Little More About Me
