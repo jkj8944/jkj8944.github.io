@@ -143,8 +143,8 @@ content:
         caption: 2020.02 - 2025.08
         quote: >
           Thesis Title: Parameterized Graph Simplifications for Large-Scale Networks
-        quote: >
-          GPA: 4.15/4.3
+        #quote: >
+        #  GPA: 4.15/4.3
     
       - layout: right
         title: POSTECH
