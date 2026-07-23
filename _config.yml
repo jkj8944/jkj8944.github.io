@@ -133,7 +133,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Sub-Reviewer
         description: |
-            MFCS 2021, SOSA 2023, ISAAC 2023, ESA 2023, ISAAC 2024, STACS 2025, SoCG 2025, ICALP 2025, COCOON 2025, STOC 2026, ICALP 2026, PODC 2026, ESA 2026, CGTA, TALG, TCS
+            MFCS 2021, SOSA 2023, ISAAC 2023, ESA 2023, ISAAC 2024, STACS 2025, SoCG 2025, ICALP 2025, COCOON 2025, STOC 2026, ICALP 2026, PODC 2026, ESA 2026, SPAA 2026, WAOA 2026, CGTA, TALG, TCS
   - title: Education
     layout: list
     content:
